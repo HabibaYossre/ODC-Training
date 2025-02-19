@@ -9,6 +9,8 @@ This program focuses on advanced AI technologies and practical implementations, 
     - Butterfly & Moths Image Classification 100 species using pytorch
 
 - **Natural Language Processing (NLP)** 🗣️   
+    - Sentiment Analysis: Developing models that classify the sentiment of Arabic text.
+     
 - **Generative Models (GANs & VAEs)** 🎨  
 - **MLOps (Machine Learning Operations)** ⚙️  
 
